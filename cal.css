@@ -1,1 +1,26 @@
+* {
+    margin:0;
+    padding:0;
+    }
+    .main {
+    background-color: rgb(116, 115, 115);
+    
+    color:#fffefe;
+    height: auto;
+    width:270px;
+    padding:20px;
+    border-radius:10px;
+    text-align: center;
+    margin:auto;
+    top: 100px;
+    
+    }
+
+    
+
+
+   .btn {
+    height: auto;
+    width: 40px;
+   }
 
